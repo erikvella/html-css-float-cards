@@ -69,7 +69,7 @@ body{
 }
 
 h3{
-  display: inline-block;
+  
   color: white;
   margin-bottom: 5px;
   margin-top: 5px;
@@ -79,16 +79,18 @@ h3{
 
 .scritte{
   float: left;
-  
+  padding-left: 15px;
   width: 200px;
 }
 
 .ruolo{
   margin-bottom: 5px;
   color: white;
+  display: block;
 }
 
 .mail{
   margin-top: 5px;
   color: rgb(64, 64, 237);
+  display: block;
 }
