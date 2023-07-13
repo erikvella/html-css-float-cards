@@ -12,21 +12,39 @@
 
 .float-left{
   float: left;
+  margin-left: 0px;
+  margin-right: 120px;
 }
+
+.float-right{
+  float: right;
+  margin-right: 0px;
+}
+
+
 
 /* header */
 
 #titolo{
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  
   color: rgb(209, 27, 88);
   text-align: center;
   margin-top: 30px;
 }
 
+.paragrafo{
+  text-align: center;
+}
+
+.Team{
+  margin-top: 80px;
+}
 .corpo-centrale{
   padding-top: 100px;
   padding-left: 200px;
   padding-right: 200px;
+  width: 1550px;
+  margin: 0 auto;
 }
 
 .card{
@@ -35,4 +53,14 @@
   background-color: aqua;
   margin-top: 20px;
 }
+
+.card-central{
+  width: 300px;
+  height: 80px;
+  background-color: aqua;
+  margin-top: 20px;
+
+}
+
+
 
