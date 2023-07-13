@@ -36,6 +36,7 @@
   text-align: center;
 }
 
+/* main */
 .Team{
   margin-top: 80px;
 }
@@ -64,6 +65,10 @@
 
 .imma{
   max-height: 100%;
+}
+
+h3{
+  display: inline-block;
 }
 
 
